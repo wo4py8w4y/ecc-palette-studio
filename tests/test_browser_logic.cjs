@@ -1,0 +1,14 @@
+const vm=require('node:vm'),fs=require('node:fs'),assert=require('node:assert/strict');
+const node=()=>({onclick:null,onchange:null,style:{setProperty(){}},classList:{add(){},remove(){}},setAttribute(){}});
+const context=vm.createContext({document:{getElementById:()=>node(),querySelectorAll:()=>[]},fetch:()=>new Promise(()=>{}),Date,console,setTimeout,clearTimeout,window:{},URL,Blob});
+vm.runInContext(fs.readFileSync('dist/app.js','utf8'),context);
+const run=(s)=>vm.runInContext(s,context);
+assert.equal(run(`importPalettes({name:'Extra',colors:{Night:'#010203',Pink:'#FF00AA'}})[0].darkest`),'#010203');
+assert.equal(run(`importPalettes(['#000000','#FFFFFF'])[0].colors.length`),2);
+assert.equal(run(`importPalettes({Night:'#010203',Pink:'#FF00AA'})[0].scheme`),null);
+assert.throws(()=>run(`importPalettes({palettes:[]})`));
+assert.throws(()=>run(`importPalettes({name:'Invalid',colors:['red']})`));
+assert.throws(()=>run(`importPalettes({schemes:[{name:'Invalid',background:'#000000'}]})`));
+const scheme=JSON.parse(fs.readFileSync('palettes/ECC-Windows-Terminal-Color-Schemes.json')).schemes[0];
+context.input=scheme;assert.equal(run(`importPalettes({schemes:[input]})[0].scheme.background`),scheme.background);
+console.log('PASS: browser importer supports creative palettes, color maps, hex arrays and Terminal schemes; malformed inputs rejected.');

@@ -1,0 +1,768 @@
+{
+  "schema_version": "1.0.0",
+  "collection_name": "ECC Palette Studio",
+  "palettes": [
+    {
+      "id": "palette-01",
+      "name": "Superstar Sticker Party",
+      "source_image": "hunty draws moodboard.jpeg",
+      "image_dimensions": {
+        "width": 864,
+        "height": 1536
+      },
+      "visual_description": "Playful Y2K poster collage with starbursts, club graphics and neon lettering",
+      "visible_text_inspiration": [
+        "Super Star",
+        "SPARK",
+        "Club City",
+        "Sparkling Denim",
+        "Storm Jade",
+        "Flame Copper",
+        "Almost Someday"
+      ],
+      "colors": [
+        {
+          "name": "Spotlight Pink",
+          "hex": "#FF00A8",
+          "role": "accent",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Electric Lime",
+          "hex": "#AAFF00",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Sparkling Denim",
+          "hex": "#00AAFF",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Purple Stage",
+          "hex": "#6900BF",
+          "role": "secondary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Flame Copper",
+          "hex": "#FFAA00",
+          "role": "highlight",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Midnight Vinyl",
+          "hex": "#110A23",
+          "role": "background",
+          "value_origin": "estimated"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#110A23",
+      "scheme": {
+        "name": "ECC | Superstar Sticker Party",
+        "background": "#110A23",
+        "foreground": "#AAFF00",
+        "cursorColor": "#AAFF00",
+        "selectionBackground": "#3F5418",
+        "black": "#0B0617",
+        "red": "#FF00A8",
+        "green": "#AAFF00",
+        "yellow": "#FFAA00",
+        "blue": "#00AAFF",
+        "purple": "#B17ADE",
+        "cyan": "#00AAFF",
+        "white": "#AAF514",
+        "brightBlack": "#544F61",
+        "brightRed": "#FF52C4",
+        "brightGreen": "#C5FF52",
+        "brightYellow": "#FFC552",
+        "brightBlue": "#52C5FF",
+        "brightPurple": "#CAA5E9",
+        "brightCyan": "#52C5FF",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 15.59
+    },
+    {
+      "id": "palette-02",
+      "name": "Rose Noir Atelier",
+      "source_image": "@sato_design -полезные файлы_шрифты для дизайна💭.jpeg",
+      "image_dimensions": {
+        "width": 1152,
+        "height": 1536
+      },
+      "visual_description": "A dramatic black, rose and powder-pink editorial palette",
+      "visible_text_inspiration": [
+        "Color",
+        "玫瑰红",
+        "高级黑",
+        "紫红"
+      ],
+      "colors": [
+        {
+          "name": "Rose Flash",
+          "hex": "#FE007F",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "After-Dark Ink",
+          "hex": "#0D1216",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Powder Rose",
+          "hex": "#E19CBB",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Soft Petal",
+          "hex": "#F5C3D6",
+          "role": "highlight",
+          "value_origin": "estimated"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#0D1216",
+      "scheme": {
+        "name": "ECC | Rose Noir Atelier",
+        "background": "#0D1216",
+        "foreground": "#F5C3D6",
+        "cursorColor": "#F5C3D6",
+        "selectionBackground": "#534750",
+        "black": "#080C0E",
+        "red": "#FE007F",
+        "green": "#818486",
+        "yellow": "#FE007F",
+        "blue": "#818486",
+        "purple": "#FE007F",
+        "cyan": "#818486",
+        "white": "#ECC0D1",
+        "brightBlack": "#515457",
+        "brightRed": "#FE52A8",
+        "brightGreen": "#A9ABAD",
+        "brightYellow": "#FE52A8",
+        "brightBlue": "#A9ABAD",
+        "brightPurple": "#FE52A8",
+        "brightCyan": "#A9ABAD",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 12.25
+    },
+    {
+      "id": "palette-03",
+      "name": "Liquid Neon Lagoon",
+      "source_image": "a2a6c1b2-ffa9-4d5b-8b69-df90e120d587.jpeg",
+      "image_dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "visual_description": "Fluid cyan and magenta paint with saturated colour-block swatches",
+      "visible_text_inspiration": [],
+      "colors": [
+        {
+          "name": "Ultraviolet Splash",
+          "hex": "#B700CC",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Pop Magenta",
+          "hex": "#F600AF",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Solar Yellow",
+          "hex": "#FFEB01",
+          "role": "highlight",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Lagoon Cyan",
+          "hex": "#42C3D0",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Electric Indigo",
+          "hex": "#513AEE",
+          "role": "contrast",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Deep Ocean Blue",
+          "hex": "#0879C4",
+          "role": "support",
+          "value_origin": "estimated"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#513AEE",
+      "scheme": {
+        "name": "ECC | Liquid Neon Lagoon",
+        "background": "#513AEE",
+        "foreground": "#F5F7FF",
+        "cursorColor": "#FFEB01",
+        "selectionBackground": "#8273F3",
+        "black": "#35269B",
+        "red": "#FA7AD5",
+        "green": "#FFEB01",
+        "yellow": "#FFEB01",
+        "blue": "#7FB9E0",
+        "purple": "#DA7AE4",
+        "cyan": "#42C3D0",
+        "white": "#ECEEF5",
+        "brightBlack": "#8271F3",
+        "brightRed": "#FCA5E2",
+        "brightGreen": "#FFF152",
+        "brightYellow": "#FFF152",
+        "brightBlue": "#A8CFEA",
+        "brightPurple": "#E6A5ED",
+        "brightCyan": "#7ED6DF",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 6.15
+    },
+    {
+      "id": "palette-04",
+      "name": "Retro Record Rendezvous",
+      "source_image": "72783314-cec6-40b6-9318-49c8fc3a9b77.jpeg",
+      "image_dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "visual_description": "Vintage vinyl records, warm citrus tones and classic teal",
+      "visible_text_inspiration": [
+        "Ryza Rust",
+        "Mikado Yellow",
+        "Flat Green",
+        "Fanfare",
+        "Lyons Blue",
+        "Piercing Red"
+      ],
+      "colors": [
+        {
+          "name": "Ryza Rust",
+          "hex": "#F3620F",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Mikado Yellow",
+          "hex": "#FFC20A",
+          "role": "highlight",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Flat Green",
+          "hex": "#67944B",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Fanfare Teal",
+          "hex": "#078D8C",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Lyons Blue",
+          "hex": "#084973",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Piercing Red",
+          "hex": "#DA0D1F",
+          "role": "alert",
+          "value_origin": "printed"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#084973",
+      "scheme": {
+        "name": "ECC | Retro Record Rendezvous",
+        "background": "#084973",
+        "foreground": "#F5F7FF",
+        "cursorColor": "#FFC20A",
+        "selectionBackground": "#4F7D9D",
+        "black": "#052F4B",
+        "red": "#EC818B",
+        "green": "#B0C7A1",
+        "yellow": "#FFC20A",
+        "blue": "#7FA0B6",
+        "purple": "#EC818B",
+        "cyan": "#7EC4C3",
+        "white": "#ECEEF5",
+        "brightBlack": "#4D7C9A",
+        "brightRed": "#F2A9B0",
+        "brightGreen": "#C9D9BF",
+        "brightYellow": "#FFD658",
+        "brightBlue": "#A8BECD",
+        "brightPurple": "#F2A9B0",
+        "brightCyan": "#A7D7D6",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 8.88
+    },
+    {
+      "id": "palette-05",
+      "name": "Spark Pop Riot",
+      "source_image": "Spark Brand Identity Sheet – Neon Logo, Bold Typography & Creative Branding Design.jpeg",
+      "image_dimensions": {
+        "width": 1086,
+        "height": 1536
+      },
+      "visual_description": "High-impact neon identity with starburst logos and graphic black",
+      "visible_text_inspiration": [
+        "SPARK",
+        "LOUD. BRIGHT. YOURS."
+      ],
+      "colors": [
+        {
+          "name": "Spark Pink",
+          "hex": "#FF00A8",
+          "role": "primary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Radioactive Lime",
+          "hex": "#39F500",
+          "role": "accent",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Cobalt Voltage",
+          "hex": "#0905AC",
+          "role": "secondary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Ink Black",
+          "hex": "#050507",
+          "role": "background",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Electric Violet",
+          "hex": "#7B19DB",
+          "role": "highlight",
+          "value_origin": "estimated"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#050507",
+      "scheme": {
+        "name": "ECC | Spark Pop Riot",
+        "background": "#050507",
+        "foreground": "#39F500",
+        "cursorColor": "#39F500",
+        "selectionBackground": "#154D05",
+        "black": "#030305",
+        "red": "#FF00A8",
+        "green": "#39F500",
+        "yellow": "#39F500",
+        "blue": "#7F7DD4",
+        "purple": "#BA87EC",
+        "cyan": "#7F7DD4",
+        "white": "#47EC14",
+        "brightBlack": "#4B4B4C",
+        "brightRed": "#FF52C4",
+        "brightGreen": "#78F852",
+        "brightYellow": "#78F852",
+        "brightBlue": "#A8A7E2",
+        "brightPurple": "#D0ADF2",
+        "brightCyan": "#A8A7E2",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 13.8
+    },
+    {
+      "id": "palette-06",
+      "name": "Edgerunner Bubblegum",
+      "source_image": "1f3c24bf-a432-4578-8b10-e49cc8b110da.jpeg",
+      "image_dimensions": {
+        "width": 864,
+        "height": 1536
+      },
+      "visual_description": "Cyberpunk anime collectible card with bubblegum pink and futuristic mint",
+      "visible_text_inspiration": [
+        "EDGERUNNER",
+        "CYBERPUNK",
+        "LUCY"
+      ],
+      "colors": [
+        {
+          "name": "Lucy Pink",
+          "hex": "#E258B7",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Mint Circuit",
+          "hex": "#8FEBDC",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Lavender Static",
+          "hex": "#AC9ACC",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Night City Plum",
+          "hex": "#3B2762",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Soft Paper",
+          "hex": "#F9F9FC",
+          "role": "surface",
+          "value_origin": "estimated"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#3B2762",
+      "scheme": {
+        "name": "ECC | Edgerunner Bubblegum",
+        "background": "#3B2762",
+        "foreground": "#F9F9FC",
+        "cursorColor": "#F9F9FC",
+        "selectionBackground": "#746690",
+        "black": "#261940",
+        "red": "#E258B7",
+        "green": "#8FEBDC",
+        "yellow": "#E258B7",
+        "blue": "#998FAD",
+        "purple": "#998FAD",
+        "cyan": "#8FEBDC",
+        "white": "#F0F0F2",
+        "brightBlack": "#72638E",
+        "brightRed": "#EB8DCE",
+        "brightGreen": "#B3F1E7",
+        "brightYellow": "#EB8DCE",
+        "brightBlue": "#BAB3C7",
+        "brightPurple": "#BAB3C7",
+        "brightCyan": "#B3F1E7",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 12.09
+    },
+    {
+      "id": "palette-07",
+      "name": "Electric Sunshine Club",
+      "source_image": "21b1df23-ab2b-4b16-96f0-91bd4157c3f2.jpeg",
+      "image_dimensions": {
+        "width": 1152,
+        "height": 1536
+      },
+      "visual_description": "Minimal neon graphic with acid-yellow lettering and high-energy hot pink",
+      "visible_text_inspiration": [
+        "Obsidian Root",
+        "Hyper Neon",
+        "Electric Sun"
+      ],
+      "colors": [
+        {
+          "name": "Obsidian Root",
+          "hex": "#0C0E09",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Hyper Neon",
+          "hex": "#FF2070",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Electric Sun",
+          "hex": "#FCFF1A",
+          "role": "highlight",
+          "value_origin": "printed"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#0C0E09",
+      "scheme": {
+        "name": "ECC | Electric Sunshine Club",
+        "background": "#0C0E09",
+        "foreground": "#FCFF1A",
+        "cursorColor": "#FCFF1A",
+        "selectionBackground": "#54560E",
+        "black": "#080906",
+        "red": "#FF2070",
+        "green": "#FCFF1A",
+        "yellow": "#FCFF1A",
+        "blue": "#FF2070",
+        "purple": "#FF2070",
+        "cyan": "#FCFF1A",
+        "white": "#F2F52B",
+        "brightBlack": "#50514E",
+        "brightRed": "#FF679E",
+        "brightGreen": "#FDFF63",
+        "brightYellow": "#FDFF63",
+        "brightBlue": "#FF679E",
+        "brightPurple": "#FF679E",
+        "brightCyan": "#FDFF63",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 17.98
+    },
+    {
+      "id": "palette-08",
+      "name": "Goblin Media Glow-Up",
+      "source_image": "4209c755-da11-4ae3-a07b-f46574187195.jpeg",
+      "image_dimensions": {
+        "width": 1229,
+        "height": 1536
+      },
+      "visual_description": "Punchy creative-studio branding with bubblegum pink, electric green and halftone",
+      "visible_text_inspiration": [
+        "GOBLINA MEDIA",
+        "2025 TRENDS"
+      ],
+      "colors": [
+        {
+          "name": "Goblin Pink",
+          "hex": "#FF007F",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Pixel Green",
+          "hex": "#00FF00",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Pure Black",
+          "hex": "#000000",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Paper White",
+          "hex": "#FFFFFF",
+          "role": "surface",
+          "value_origin": "printed"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#000000",
+      "scheme": {
+        "name": "ECC | Goblin Media Glow-Up",
+        "background": "#000000",
+        "foreground": "#FFFFFF",
+        "cursorColor": "#FFFFFF",
+        "selectionBackground": "#4C4C4C",
+        "black": "#000000",
+        "red": "#FF007F",
+        "green": "#00FF00",
+        "yellow": "#00FF00",
+        "blue": "#FF007F",
+        "purple": "#FF007F",
+        "cyan": "#00FF00",
+        "white": "#F5F5F5",
+        "brightBlack": "#474747",
+        "brightRed": "#FF52A8",
+        "brightGreen": "#52FF52",
+        "brightYellow": "#52FF52",
+        "brightBlue": "#FF52A8",
+        "brightPurple": "#FF52A8",
+        "brightCyan": "#52FF52",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 21.0
+    },
+    {
+      "id": "palette-09",
+      "name": "Rainbow Warp Drive",
+      "source_image": "Christmas Wonderland_ Festive Shower Curtain Set for Bathrooms - Color#1 _ Curtain70_8_70.8inch.jpg",
+      "image_dimensions": {
+        "width": 1536,
+        "height": 1534
+      },
+      "visual_description": "Psychedelic neon wave pattern with hot fuchsia, turquoise and lemon",
+      "visible_text_inspiration": [],
+      "colors": [
+        {
+          "name": "Warp Purple",
+          "hex": "#B700CC",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Hot Fuchsia",
+          "hex": "#F600AF",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Lemon Laser",
+          "hex": "#FFEB01",
+          "role": "highlight",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Aqua Current",
+          "hex": "#42C3D0",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Blue Warp",
+          "hex": "#513AEE",
+          "role": "contrast",
+          "value_origin": "printed"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#513AEE",
+      "scheme": {
+        "name": "ECC | Rainbow Warp Drive",
+        "background": "#513AEE",
+        "foreground": "#F5F7FF",
+        "cursorColor": "#FFEB01",
+        "selectionBackground": "#8273F3",
+        "black": "#35269B",
+        "red": "#FA7AD5",
+        "green": "#FFEB01",
+        "yellow": "#FFEB01",
+        "blue": "#A599F6",
+        "purple": "#DA7AE4",
+        "cyan": "#42C3D0",
+        "white": "#ECEEF5",
+        "brightBlack": "#8271F3",
+        "brightRed": "#FCA5E2",
+        "brightGreen": "#FFF152",
+        "brightYellow": "#FFF152",
+        "brightBlue": "#C2BAF9",
+        "brightPurple": "#E6A5ED",
+        "brightCyan": "#7ED6DF",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 6.15
+    },
+    {
+      "id": "palette-10",
+      "name": "Arcade Wayfinder",
+      "source_image": "d660ac26-eb0f-45c1-a3a3-9cf0459aadfc.jpeg",
+      "image_dimensions": {
+        "width": 1092,
+        "height": 1536
+      },
+      "visual_description": "Graphic wayfinding strips, electric checks and high-contrast geometric patterns",
+      "visible_text_inspiration": [
+        "ATELIER A",
+        "STUDIO A",
+        "CUISINE",
+        "KITCHEN",
+        "ETAGE",
+        "FLOOR"
+      ],
+      "colors": [
+        {
+          "name": "Arcade Blue",
+          "hex": "#1028EF",
+          "role": "primary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Hyper Lime",
+          "hex": "#75FF3D",
+          "role": "accent",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Bubblegum Laser",
+          "hex": "#F43AD9",
+          "role": "secondary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Lemon Signal",
+          "hex": "#FFFF55",
+          "role": "highlight",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Blackout",
+          "hex": "#050507",
+          "role": "background",
+          "value_origin": "estimated"
+        }
+      ],
+      "source_file": "palettes/ecc-creative-image-palettes.json",
+      "catalog_kind": "creative",
+      "darkest": "#050507",
+      "scheme": {
+        "name": "ECC | Arcade Wayfinder",
+        "background": "#050507",
+        "foreground": "#FFFF55",
+        "cursorColor": "#FFFF55",
+        "selectionBackground": "#50501E",
+        "black": "#030305",
+        "red": "#F43AD9",
+        "green": "#75FF3D",
+        "yellow": "#FFFF55",
+        "blue": "#838FF7",
+        "purple": "#F43AD9",
+        "cyan": "#838FF7",
+        "white": "#F5F55F",
+        "brightBlack": "#4B4B4C",
+        "brightRed": "#F879E5",
+        "brightGreen": "#A1FF7B",
+        "brightYellow": "#FFFF8B",
+        "brightBlue": "#ABB3FA",
+        "brightPurple": "#F879E5",
+        "brightCyan": "#ABB3FA",
+        "brightWhite": "#FFFFFF"
+      },
+      "scheme_source": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "contrast": 19.09
+    }
+  ],
+  "sources": [
+    {
+      "file": "palettes/ECC-Windows-Terminal-Color-Schemes.json",
+      "sha256": "f1b09d2d1248f5dbe34fcbb4175482cb38a603d7203cca7f3a6ff38068691065",
+      "records": 10
+    },
+    {
+      "file": "palettes/ecc-creative-image-palettes.json",
+      "sha256": "d22f11ee39abab723fe1db4349ee776f78091339dcbb8470f0d96805ae1e6e30",
+      "records": 10
+    }
+  ],
+  "warnings": [],
+  "remote_repository_scan": {
+    "status": "blocked",
+    "reason": "Connected GitHub exposes no repositories; previous NewRepo2 reference returned 404. No extra remote palette data claimed."
+  }
+}

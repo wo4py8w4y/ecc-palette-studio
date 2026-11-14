@@ -1,0 +1,472 @@
+{
+  "schema_version": "1.0.0",
+  "collection_name": "Creative Reference Image Palettes",
+  "description": "One practical, named colour palette per supplied reference image. Printed hex codes are transcribed when legible; other values are visual approximations, not exact pixel samples.",
+  "palettes": [
+    {
+      "id": "palette-01",
+      "name": "Superstar Sticker Party",
+      "source_image": "hunty draws moodboard.jpeg",
+      "image_dimensions": {
+        "width": 864,
+        "height": 1536
+      },
+      "visual_description": "Playful Y2K poster collage with starbursts, club graphics and neon lettering",
+      "visible_text_inspiration": [
+        "Super Star",
+        "SPARK",
+        "Club City",
+        "Sparkling Denim",
+        "Storm Jade",
+        "Flame Copper",
+        "Almost Someday"
+      ],
+      "colors": [
+        {
+          "name": "Spotlight Pink",
+          "hex": "#FF00A8",
+          "role": "accent",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Electric Lime",
+          "hex": "#AAFF00",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Sparkling Denim",
+          "hex": "#00AAFF",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Purple Stage",
+          "hex": "#6900BF",
+          "role": "secondary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Flame Copper",
+          "hex": "#FFAA00",
+          "role": "highlight",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Midnight Vinyl",
+          "hex": "#110A23",
+          "role": "background",
+          "value_origin": "estimated"
+        }
+      ]
+    },
+    {
+      "id": "palette-02",
+      "name": "Rose Noir Atelier",
+      "source_image": "@sato_design -полезные файлы_шрифты для дизайна💭.jpeg",
+      "image_dimensions": {
+        "width": 1152,
+        "height": 1536
+      },
+      "visual_description": "A dramatic black, rose and powder-pink editorial palette",
+      "visible_text_inspiration": [
+        "Color",
+        "玫瑰红",
+        "高级黑",
+        "紫红"
+      ],
+      "colors": [
+        {
+          "name": "Rose Flash",
+          "hex": "#FE007F",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "After-Dark Ink",
+          "hex": "#0D1216",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Powder Rose",
+          "hex": "#E19CBB",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Soft Petal",
+          "hex": "#F5C3D6",
+          "role": "highlight",
+          "value_origin": "estimated"
+        }
+      ]
+    },
+    {
+      "id": "palette-03",
+      "name": "Liquid Neon Lagoon",
+      "source_image": "a2a6c1b2-ffa9-4d5b-8b69-df90e120d587.jpeg",
+      "image_dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "visual_description": "Fluid cyan and magenta paint with saturated colour-block swatches",
+      "visible_text_inspiration": [],
+      "colors": [
+        {
+          "name": "Ultraviolet Splash",
+          "hex": "#B700CC",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Pop Magenta",
+          "hex": "#F600AF",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Solar Yellow",
+          "hex": "#FFEB01",
+          "role": "highlight",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Lagoon Cyan",
+          "hex": "#42C3D0",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Electric Indigo",
+          "hex": "#513AEE",
+          "role": "contrast",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Deep Ocean Blue",
+          "hex": "#0879C4",
+          "role": "support",
+          "value_origin": "estimated"
+        }
+      ]
+    },
+    {
+      "id": "palette-04",
+      "name": "Retro Record Rendezvous",
+      "source_image": "72783314-cec6-40b6-9318-49c8fc3a9b77.jpeg",
+      "image_dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "visual_description": "Vintage vinyl records, warm citrus tones and classic teal",
+      "visible_text_inspiration": [
+        "Ryza Rust",
+        "Mikado Yellow",
+        "Flat Green",
+        "Fanfare",
+        "Lyons Blue",
+        "Piercing Red"
+      ],
+      "colors": [
+        {
+          "name": "Ryza Rust",
+          "hex": "#F3620F",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Mikado Yellow",
+          "hex": "#FFC20A",
+          "role": "highlight",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Flat Green",
+          "hex": "#67944B",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Fanfare Teal",
+          "hex": "#078D8C",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Lyons Blue",
+          "hex": "#084973",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Piercing Red",
+          "hex": "#DA0D1F",
+          "role": "alert",
+          "value_origin": "printed"
+        }
+      ]
+    },
+    {
+      "id": "palette-05",
+      "name": "Spark Pop Riot",
+      "source_image": "Spark Brand Identity Sheet – Neon Logo, Bold Typography & Creative Branding Design.jpeg",
+      "image_dimensions": {
+        "width": 1086,
+        "height": 1536
+      },
+      "visual_description": "High-impact neon identity with starburst logos and graphic black",
+      "visible_text_inspiration": [
+        "SPARK",
+        "LOUD. BRIGHT. YOURS."
+      ],
+      "colors": [
+        {
+          "name": "Spark Pink",
+          "hex": "#FF00A8",
+          "role": "primary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Radioactive Lime",
+          "hex": "#39F500",
+          "role": "accent",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Cobalt Voltage",
+          "hex": "#0905AC",
+          "role": "secondary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Ink Black",
+          "hex": "#050507",
+          "role": "background",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Electric Violet",
+          "hex": "#7B19DB",
+          "role": "highlight",
+          "value_origin": "estimated"
+        }
+      ]
+    },
+    {
+      "id": "palette-06",
+      "name": "Edgerunner Bubblegum",
+      "source_image": "1f3c24bf-a432-4578-8b10-e49cc8b110da.jpeg",
+      "image_dimensions": {
+        "width": 864,
+        "height": 1536
+      },
+      "visual_description": "Cyberpunk anime collectible card with bubblegum pink and futuristic mint",
+      "visible_text_inspiration": [
+        "EDGERUNNER",
+        "CYBERPUNK",
+        "LUCY"
+      ],
+      "colors": [
+        {
+          "name": "Lucy Pink",
+          "hex": "#E258B7",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Mint Circuit",
+          "hex": "#8FEBDC",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Lavender Static",
+          "hex": "#AC9ACC",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Night City Plum",
+          "hex": "#3B2762",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Soft Paper",
+          "hex": "#F9F9FC",
+          "role": "surface",
+          "value_origin": "estimated"
+        }
+      ]
+    },
+    {
+      "id": "palette-07",
+      "name": "Electric Sunshine Club",
+      "source_image": "21b1df23-ab2b-4b16-96f0-91bd4157c3f2.jpeg",
+      "image_dimensions": {
+        "width": 1152,
+        "height": 1536
+      },
+      "visual_description": "Minimal neon graphic with acid-yellow lettering and high-energy hot pink",
+      "visible_text_inspiration": [
+        "Obsidian Root",
+        "Hyper Neon",
+        "Electric Sun"
+      ],
+      "colors": [
+        {
+          "name": "Obsidian Root",
+          "hex": "#0C0E09",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Hyper Neon",
+          "hex": "#FF2070",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Electric Sun",
+          "hex": "#FCFF1A",
+          "role": "highlight",
+          "value_origin": "printed"
+        }
+      ]
+    },
+    {
+      "id": "palette-08",
+      "name": "Goblin Media Glow-Up",
+      "source_image": "4209c755-da11-4ae3-a07b-f46574187195.jpeg",
+      "image_dimensions": {
+        "width": 1229,
+        "height": 1536
+      },
+      "visual_description": "Punchy creative-studio branding with bubblegum pink, electric green and halftone",
+      "visible_text_inspiration": [
+        "GOBLINA MEDIA",
+        "2025 TRENDS"
+      ],
+      "colors": [
+        {
+          "name": "Goblin Pink",
+          "hex": "#FF007F",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Pixel Green",
+          "hex": "#00FF00",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Pure Black",
+          "hex": "#000000",
+          "role": "background",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Paper White",
+          "hex": "#FFFFFF",
+          "role": "surface",
+          "value_origin": "printed"
+        }
+      ]
+    },
+    {
+      "id": "palette-09",
+      "name": "Rainbow Warp Drive",
+      "source_image": "Christmas Wonderland_ Festive Shower Curtain Set for Bathrooms - Color#1 _ Curtain70_8_70.8inch.jpg",
+      "image_dimensions": {
+        "width": 1536,
+        "height": 1534
+      },
+      "visual_description": "Psychedelic neon wave pattern with hot fuchsia, turquoise and lemon",
+      "visible_text_inspiration": [],
+      "colors": [
+        {
+          "name": "Warp Purple",
+          "hex": "#B700CC",
+          "role": "primary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Hot Fuchsia",
+          "hex": "#F600AF",
+          "role": "accent",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Lemon Laser",
+          "hex": "#FFEB01",
+          "role": "highlight",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Aqua Current",
+          "hex": "#42C3D0",
+          "role": "secondary",
+          "value_origin": "printed"
+        },
+        {
+          "name": "Blue Warp",
+          "hex": "#513AEE",
+          "role": "contrast",
+          "value_origin": "printed"
+        }
+      ]
+    },
+    {
+      "id": "palette-10",
+      "name": "Arcade Wayfinder",
+      "source_image": "d660ac26-eb0f-45c1-a3a3-9cf0459aadfc.jpeg",
+      "image_dimensions": {
+        "width": 1092,
+        "height": 1536
+      },
+      "visual_description": "Graphic wayfinding strips, electric checks and high-contrast geometric patterns",
+      "visible_text_inspiration": [
+        "ATELIER A",
+        "STUDIO A",
+        "CUISINE",
+        "KITCHEN",
+        "ETAGE",
+        "FLOOR"
+      ],
+      "colors": [
+        {
+          "name": "Arcade Blue",
+          "hex": "#1028EF",
+          "role": "primary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Hyper Lime",
+          "hex": "#75FF3D",
+          "role": "accent",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Bubblegum Laser",
+          "hex": "#F43AD9",
+          "role": "secondary",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Lemon Signal",
+          "hex": "#FFFF55",
+          "role": "highlight",
+          "value_origin": "estimated"
+        },
+        {
+          "name": "Blackout",
+          "hex": "#050507",
+          "role": "background",
+          "value_origin": "estimated"
+        }
+      ]
+    }
+  ]
+}
